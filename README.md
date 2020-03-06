@@ -11,6 +11,7 @@
 |![海](background/t003_sea.jpg)|[海](background/003_sea.jpg)|
 |![氷の音](background/t004_ice_sounds.jpg)|[氷の音](background/004_ice_sounds.jpg)|
 |![窓](background/t005_window.jpg)|[窓](background/005_window.jpg)|
+|![バー](background/t006_bar.png)|[バー](background/006_bar.png)|
 
 ## 小物
 
