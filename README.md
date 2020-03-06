@@ -7,7 +7,7 @@
 |サンプル|リンク|
 |:---:|:---:|
 |![トランプ](background/t001_trump.png)|[トランプ](background/001_trump.png)|
-|![トランプゲート](background/t002_trump_gate.png)|[トランプゲート](background/002_trump._gate.png)|
+|![トランプゲート](background/t002_trump_gate.png)|[トランプゲート](background/002_trump_gate.png)|
 |![海](background/t003_sea.jpeg)|[海](background/003_sea.jpeg)|
 
 ## 小物
