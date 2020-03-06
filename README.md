@@ -4,17 +4,21 @@
 
 ## 背景
 
-- [トランプ](items/001_trump.png)
-- [トランプゲート](items/002_trump_gate.png)
-- [海](items/003_sea.png)
+|サンプル|リンク|
+|:---:|:---:|
+|![トランプ](background/t001_trump.png)|[トランプ](background/001_trump.png)|
+|![トランプゲート](background/t002_trump_gate.png)|[トランプゲート](background/002_trump._gatepng)|
+|![海](background/t003_sea.png)|[海](background/003_sea.png)|
 
 ## 小物
 
-- [フェイスベール](items/001_facebale.png)
+|サンプル|リンク|
+|:---:|:---:|
+|![フェイスベール](items/t001_facebale.png)|[フェイスベール](items/001_facebale.png)|
 
 ## キャラクター
 
-- [ネズミ](character/001_mouse.png)
-
-
+|サンプル|リンク|
+|:---:|:---:|
+|![ネズミ](characters/t001_mouse.png)|[ネズミ](characters/001_mouse.png)|
 
